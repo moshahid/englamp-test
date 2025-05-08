@@ -17,5 +17,5 @@ This project sets up a full **LAMP stack** (Linux, Apache, MySQL, PHP) using Doc
 ### 1. Clone or Download This Project
 
 ```bash
-git clone https://github.com/your-org/englamp-test.git
+git clone https://github.com/moshahid/englamp-test.git
 cd englamp-test
