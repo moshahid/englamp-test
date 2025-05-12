@@ -23,8 +23,8 @@ jobs:
 
     - name: Build Docker image for Apache
       run: |
-        docker build -t englamp.azurecr.io/englamp_apache:latest .
+        docker build -t englamp-fsfgfxegcmbratc7.azurecr.io/englamp_apache:latest .
 
     - name: Push Docker image to ACR
       run: |
-        docker push englamp.azurecr.io/englamp_apache:latest
+        docker push englamp-fsfgfxegcmbratc7.azurecr.io/englamp_apache:latest
